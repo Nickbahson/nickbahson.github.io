@@ -60,7 +60,7 @@ function blogList() {
          {
              id: '1' ,
              title: 'Sending Encrypted data between two apps (php, nodejs) with json web tokens',
-             intro: 'In this post, I will walk you through how you would send sensitive(secure) data like login passwords/userId pair between two apps with [Json Web Tokens (JWT)](https://jwt.io/introduction/). We will use nodejs and a php framework of choice (laravel). ',
+             intro: 'A walk through on how on could send sensitive(secure) data like login passwords/userId pair between two apps with [Json Web Tokens (JWT)](https://jwt.io/introduction/). We will use nodejs and a php framework of choice (laravel). ',
              link: 'www.flaircore.com',
              date: 'Today'
          },
